@@ -48,25 +48,25 @@ You can find the dataset [here](https://grouplens.org/datasets/movielens/100k/).
 git clone https://github.com/vinidujay/Movie-Recommendations.git
 cd Movie-Recommendations
 
-
+```
 #### 2. Set Up the Virtual Environment
 
 ``` bash
 python3 -m venv venv
 source venv/bin/activate #Mac/Linux
 venv\Scripts\actvate #Windows
-
+```
 #### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```
 #### 4. Run the Jupyter Notebook
 
 ```bash 
 jupyter notebook
 Open the relevant notebook (movies.ipynb) and run the cells step by step.
-
+```
 
 ---
 
