@@ -65,8 +65,9 @@ pip install -r requirements.txt
 
 ```bash 
 jupyter notebook
-Open the relevant notebook (movies.ipynb) and run the cells step by step.
+
 ```
+##### Open the relevant notebook (movies.ipynb) and run the cells step by step.
 
 ---
 
